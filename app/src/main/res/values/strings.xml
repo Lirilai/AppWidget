@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppWidget</string>
+
+    <string name="persent_format">%1$d</string>
+</resources>
